@@ -1,6 +1,6 @@
 # chatapp
 
-A new Flutter project.
+Flutter Chat App with Multi-User using Getx and Firebase
 
 ## Getting Started
 
