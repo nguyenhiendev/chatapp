@@ -1,0 +1,40 @@
+{
+    "project_info": {
+        "project_number": "455871979105",
+        "project_id": "chatapp-d80b1",
+        "storage_bucket": "chatapp-d80b1.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:455871979105:android:34d6a9bc36a59bfb6c9420",
+            "android_client_info": {
+                "package_name": "com.nguyenhien.chatapp"
+            }
+        },
+        "oauth_client": [{
+                "client_id": "455871979105-65lu1i8kjd565rf13ato4gp0jof111ml.apps.googleusercontent.com",
+                "client_type": 1,
+                "android_info": {
+                    "package_name": "com.nguyenhien.chatapp",
+                    "certificate_hash": "3d05dc81dcd30c149ebcd8e0469ac0b7e811a410"
+                }
+            },
+            {
+                "client_id": "455871979105-c54l7mt7grhik21hj0b18jkie2rltepa.apps.googleusercontent.com",
+                "client_type": 3
+            }
+        ],
+        "api_key": [{
+            "current_key": "AIzaSyDSEI_pb81d1Ab2M0tggri41iA4s6rRq6g"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "455871979105-c54l7mt7grhik21hj0b18jkie2rltepa.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}

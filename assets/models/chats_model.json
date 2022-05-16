@@ -1,0 +1,22 @@
+{
+    "connections": [
+        "langtubietyeu2412@gmail.com",
+        "nguyenhien.nohats@gmail.com"
+    ],
+    "chat": [
+        {
+            "sender": "langtubietyeu2412@gmail.com",
+            "recipient": "nguyenhien.nohats@gmail.com",
+            "message": "Hello, how are you ?",
+            "time": "2021-08-25T13:28:59.748721",
+            "isRead":true
+        },
+        {
+            "sender": "nguyenhien.nohats@gmail.com",
+            "recipient": "langtubietyeu2412@gmail.com",
+            "message": "I'm fine thank you",
+            "time": "2021-08-25T13:29:02.748721",
+            "isRead":false
+        }
+    ]
+}
